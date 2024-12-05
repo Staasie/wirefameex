@@ -39,6 +39,15 @@ main {
   }
 
   .alpha img{
-    width: 100%
+    width: 100%;
   }
   
+  .brave{
+    display: flex;
+    justify-content: center;
+    /* gap: 20px */
+  }
+
+  /* use display flex whenever you want something right next tp ewach other and then use justify-content centered will also be used here
+
+  align items flex and gap 20pxover flow auto pair with height
